@@ -15,6 +15,11 @@ properties:
     description: The user's title (Mr., Ms., etc.).
     example: Ms
 
+  firstname:
+    type: string
+    description: Deprecated field with same value as firstName.
+    deprecated: true
+
   firstName:
     type: string
     nullable: false
@@ -37,6 +42,11 @@ properties:
     nullable: false
     description: The user's preferred name, if set. If preferred name is not set, returns the user's first name.
   
+  lastname:
+    type: string
+    description: Deprecated field with same value as lastName.
+    deprecated: true
+
   lastName:
     type: string
     nullable: true

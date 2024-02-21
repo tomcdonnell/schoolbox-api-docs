@@ -85,9 +85,11 @@ properties:
       - id: 69
         externalId: 69
         title: null
+        firstname: Eden
         firstName: Eden
         preferredName: Reed
         givenName: Eden
+        lastname: Reed
         lastName: Reed
         fullName: Eden Reed
         role:
