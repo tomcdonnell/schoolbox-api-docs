@@ -1,3 +1,4 @@
+# The request contains stub objects that contain only an 'id'.
 allOf:
   - $ref: ./eventCommonFields.yaml
   - type: object
