@@ -1,4 +1,3 @@
-# The response is all the fields from tne request, plus the new event id.
 allOf:
   - type: object
     properties:
