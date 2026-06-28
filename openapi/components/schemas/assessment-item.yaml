@@ -18,6 +18,7 @@ properties:
       - LTI
       - lessonPlan
       - dialogAgent
+      - reporting
     example: task
   folder:
     description: |
